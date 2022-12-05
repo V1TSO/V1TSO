@@ -20,4 +20,4 @@
 Check out my projects
 ### https://v1tso.github.io/divisores-react/
 ### https://v1tso.github.io/quizzler/
-<img align="left" src=" https://i.imgur.com/s3g5js9.png" />
+### https://i.imgur.com/s3g5js9.png
