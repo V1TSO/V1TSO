@@ -20,5 +20,5 @@
 Check out my projects
 ### https://v1tso.github.io/divisores-react/
 ### https://v1tso.github.io/quizzler/
-<img align="left" src="https://imgur.com/s3g5js9" />
+<blockquote class="imgur-embed-pub" lang="en" data-id="s3g5js9" data-context="false" ><a href="//imgur.com/s3g5js9"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
  
