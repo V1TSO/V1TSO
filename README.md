@@ -17,6 +17,6 @@
 #
 #
 #
-#Check out my projects
+Check out my projects
 ### https://v1tso.github.io/divisores-react/
 ### https://v1tso.github.io/quizzler/
