@@ -1,6 +1,6 @@
 # Hi there im V1TSO 👋
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=v1tso&show_icons=true&theme=tokyonight" />
+
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1tso&layout=compact" />
 
 ## Technologies I use 📡
