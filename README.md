@@ -14,9 +14,9 @@
 <img align="left" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
  
  
- 
- 
- 
-Check out my projects
+#
+#
+#
+#Check out my projects
 ### https://v1tso.github.io/divisores-react/
 ### https://v1tso.github.io/quizzler/
